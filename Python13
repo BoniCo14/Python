@@ -7,5 +7,5 @@ names = names_string.split(", ")
 
 #Write your code below this line 👇
 length=(len(names))
-random=random.randint(0, length)
+random=random.randint(0, length-1)
 print(names[random]+" is going to buy the meal today!")
