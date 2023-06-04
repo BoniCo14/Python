@@ -26,7 +26,6 @@ random=random.randint(0, length-1)
 print(names[random]+" is going to buy the meal today!")
 
 //3 Treasure Map
-//Day 4 Project 4.1 Treasure Map
 # 🚨 Don't change the code below 👇
 row1 = ["⬜️","️⬜️","️⬜️"]
 row2 = ["⬜️","⬜️","️⬜️"]
